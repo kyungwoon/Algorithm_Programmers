@@ -1,4 +1,4 @@
-package 짝수와홀수;
+package 짝수와홀수_2;
 
 class Solution {
     public String solution(int num) {
