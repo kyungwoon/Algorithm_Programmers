@@ -1,4 +1,4 @@
-package 완주하지못한선수;
+package 완주하지못한선수_20;
 
 import java.util.HashMap;
 
