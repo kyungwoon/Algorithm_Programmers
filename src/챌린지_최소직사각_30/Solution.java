@@ -1,6 +1,5 @@
 package 챌린지_최소직사각_30;
 
-import java.util.*;
 
 class Solution {
     public int solution(int[][] sizes) {
@@ -14,6 +13,7 @@ class Solution {
             maxWidth = Math.max(maxWidth, width);
             maxHight = Math.max(maxHight, hight);
         }
-        return answer = maxWidth * maxHight;
+        answer = maxWidth * maxHight;
+        return answer;
     }
 }
