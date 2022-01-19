@@ -12,6 +12,7 @@ class Solution {
             int hight = Math.min(size[0], size[1]);
             maxWidth = Math.max(maxWidth, width);
             maxHight = Math.max(maxHight, hight);
+
         }
         answer = maxWidth * maxHight;
         return answer;
