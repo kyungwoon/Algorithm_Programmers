@@ -13,10 +13,10 @@ class Solution {
                 yCnt++;
             }
         }
-            if (pCnt == yCnt) {
-                return answer;
-            } else {
-                return false;
-            }
+        if (pCnt == yCnt) {
+            return answer;
+        } else {
+            return false;
         }
     }
+}
