@@ -6,8 +6,11 @@ public class Main {
         return answer;
     }
 
+
+
     public static void main(String[] args) {
         Main method = new Main();
         System.out.println(method.solution("1062509911"));
+        System.out.println();
     }
 }
