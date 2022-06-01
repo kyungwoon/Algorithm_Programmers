@@ -12,7 +12,6 @@ class Solution {
             }
             answer++;
         }
-
         if (answer == 500) {
             answer = -1;
         }
